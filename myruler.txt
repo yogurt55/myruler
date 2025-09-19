@@ -1,6 +1,6 @@
 payload:
   - '+.skk.moe'
   - '+.summer-plus.net'
-  - '+.ip.sb'
+  - '+.gofile.io'
   - '+.ip-api.com'
   - '+.IPInfo.io'
