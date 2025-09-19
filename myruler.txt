@@ -5,3 +5,5 @@ payload:
   - '+.ip-api.com'
   - '+.IPInfo.io'
   - '+.ip.sb'
+  - '+.yuka.club'
+  - '+.togeari.com'
