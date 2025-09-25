@@ -10,4 +10,5 @@ payload:
   - '+.limista.com'
   - '+.spotify.com'
   - '+.spotifycdn.com'
+  - '+.api-huacloud.dev'
 
