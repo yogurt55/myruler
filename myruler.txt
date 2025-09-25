@@ -8,3 +8,6 @@ payload:
   - '+.yuka.club'
   - '+.togeari.com'
   - '+.limista.com'
+  - '+.spotify.com'
+  - '+.spotifycdn.com'
+
