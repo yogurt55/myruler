@@ -12,4 +12,5 @@ payload:
   - '+.spotifycdn.com'
   - '+.api-huacloud.dev'
   - '+.cloudflare.com'
+  - '+.52nanami.cn'
 
