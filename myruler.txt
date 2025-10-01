@@ -11,4 +11,5 @@ payload:
   - '+.spotify.com'
   - '+.spotifycdn.com'
   - '+.api-huacloud.dev'
+  - '+.cloudflare.com'
 
